@@ -1,124 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tanisi Systems Inc</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Tanisi Systems Inc</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 09:36:20 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog Post 1</title>
-      <link>//localhost:1313/careers/blog-post-1/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/blog-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>News Post 1</title>
-      <link>//localhost:1313/careers/news-post-1/</link>
-      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/news-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>News Post 2</title>
-      <link>//localhost:1313/careers/news-post-2/</link>
-      <pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/news-post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>News Post 4</title>
-      <link>//localhost:1313/careers/news-post-4/</link>
-      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/news-post-4/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>News Post 5</title>
-      <link>//localhost:1313/careers/news-post-5/</link>
-      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/news-post-5/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>News Post 6</title>
-      <link>//localhost:1313/careers/news-post-6/</link>
-      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/news-post-6/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>h1 Heading &amp;#x1f60a; h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.&#xA;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&#xA;test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.&#xA;!!!!!! ???? ,, &amp;ndash; &amp;mdash;&#xA;&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;&#xA;Emphasis This is bold text&#xA;This is bold text&#xA;This is italic text&#xA;This is italic text&#xA;Strikethrough&#xA;Blockquotes Blockquotes can also be nested&amp;hellip;</description>
-    </item>
-    <item>
-      <title>Blog Post 2</title>
-      <link>//localhost:1313/careers/blog-post-2/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/blog-post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Blog Post 3</title>
-      <link>//localhost:1313/careers/blog-post-3/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/blog-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Blog Post 4</title>
-      <link>//localhost:1313/careers/blog-post-4/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/blog-post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Blog Post 5</title>
-      <link>//localhost:1313/careers/blog-post-5/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/blog-post-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Blog Post 6</title>
-      <link>//localhost:1313/careers/blog-post-6/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/blog-post-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
-      <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
-      <description> Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.&#xA;Your Email: Subject: Your message: Send Message </description>
-    </item>
-    <item>
-      <title>News Post 3</title>
-      <link>//localhost:1313/careers/news-post-3/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/careers/news-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Services</title>
-      <link>//localhost:1313/services/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/services/</guid>
-      <description>Workforce Optimization We focus on serving our clients with a combination of innovative technologies, increased efficiencies, and leading edge solutions with an end-goal of achieving client excellence.&#xA;A full assessment from current state staffing spend, rates, inefficiencies, risks and gaps and provides future state recommendations for re-alignment of recruiting methodology, staffing suppliers and support functions.&#xA;Managed Staffing Programs (MSP) From overall program management, order distribution to consolidated billing across all program suppliers, our proven model incorporates best practices drawn from more than decades of experience.</description>
-    </item>
-    <item>
-      <title>Staffing</title>
-      <link>//localhost:1313/staffing/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/staffing/</guid>
-      <description>Staffing Areas TanPro Technologies is able to provide results custom to your needs and requirements. We understand that your goals will be unique and we are able to provide solutions that are specific to them. Our range of vertical markets has given us the experience needed to help you with your IT staffing requirements, whether it is contract staffing or direct hire. We know that every industry has different requirements and expectations when it comes to IT staffing and we are able to deliver on those needs.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tanisi Systems Inc</title><link>https://bala-cherlopalli.github.io/</link><description>Recent content on Tanisi Systems Inc</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 12 Aug 2023 09:36:20 -0500</lastBuildDate><atom:link href="https://bala-cherlopalli.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog Post 1</title><link>https://bala-cherlopalli.github.io/careers/blog-post-1/</link><pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/blog-post-1/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>News Post 1</title><link>https://bala-cherlopalli.github.io/careers/news-post-1/</link><pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/news-post-1/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>News Post 2</title><link>https://bala-cherlopalli.github.io/careers/news-post-2/</link><pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/news-post-2/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>News Post 4</title><link>https://bala-cherlopalli.github.io/careers/news-post-4/</link><pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/news-post-4/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p></description></item><item><title>News Post 5</title><link>https://bala-cherlopalli.github.io/careers/news-post-5/</link><pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/news-post-5/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p></description></item><item><title>News Post 6</title><link>https://bala-cherlopalli.github.io/careers/news-post-6/</link><pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/news-post-6/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p></description></item><item><title>About</title><link>https://bala-cherlopalli.github.io/about/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/about/</guid><description>h1 Heading &amp;#x1f60a; h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
+!!!!!! ???? ,, &amp;ndash; &amp;mdash;
+&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;
+Emphasis This is bold text
+This is bold text
+This is italic text
+This is italic text
+Strikethrough
+Blockquotes Blockquotes can also be nested&amp;hellip;</description></item><item><title>Blog Post 2</title><link>https://bala-cherlopalli.github.io/careers/blog-post-2/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/blog-post-2/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Blog Post 3</title><link>https://bala-cherlopalli.github.io/careers/blog-post-3/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/blog-post-3/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Blog Post 4</title><link>https://bala-cherlopalli.github.io/careers/blog-post-4/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/blog-post-4/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Blog Post 5</title><link>https://bala-cherlopalli.github.io/careers/blog-post-5/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/blog-post-5/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Blog Post 6</title><link>https://bala-cherlopalli.github.io/careers/blog-post-6/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/blog-post-6/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Contact</title><link>https://bala-cherlopalli.github.io/contact/</link><pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate><guid>https://bala-cherlopalli.github.io/contact/</guid><description> Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.
+Your Email: Subject: Your message: Send Message</description></item><item><title>News Post 3</title><link>https://bala-cherlopalli.github.io/careers/news-post-3/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/careers/news-post-3/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Services</title><link>https://bala-cherlopalli.github.io/services/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/services/</guid><description>Workforce Optimization We focus on serving our clients with a combination of innovative technologies, increased efficiencies, and leading edge solutions with an end-goal of achieving client excellence.
+A full assessment from current state staffing spend, rates, inefficiencies, risks and gaps and provides future state recommendations for re-alignment of recruiting methodology, staffing suppliers and support functions.
+Managed Staffing Programs (MSP) From overall program management, order distribution to consolidated billing across all program suppliers, our proven model incorporates best practices drawn from more than decades of experience.</description></item><item><title>Staffing</title><link>https://bala-cherlopalli.github.io/staffing/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://bala-cherlopalli.github.io/staffing/</guid><description>Staffing Areas TanPro Technologies is able to provide results custom to your needs and requirements. We understand that your goals will be unique and we are able to provide solutions that are specific to them. Our range of vertical markets has given us the experience needed to help you with your IT staffing requirements, whether it is contract staffing or direct hire. We know that every industry has different requirements and expectations when it comes to IT staffing and we are able to deliver on those needs.</description></item></channel></rss>
